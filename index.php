@@ -34,13 +34,13 @@
                             <div class="step-icon">
                                 <img src="img/deployWhite.svg">
                             </div>
-                            <div class="step-text"><a href="https://www.youtube.com/channel/UCgyu6yjUK_RCw6MgphtT-ig">More tutorials and videos on my YouTube channel</a></div>
+                            
                         </div>
                         <div class="step">
                             <div class="step-icon">
                                 <img src="img/stackWhite.svg">
                             </div>
-                            <div class="step-text">Connect me on <a href="https://www.linkedin.com/in/abdul-jaseem-ab1560114/">LinkedIn</a> | <a href="https://github.com/vpjaseem">GitHub</a></div>
+                            <div class="step-text">Connect me on <a href="https://github.com/SadiqLuther">GitHub</a></div>
                         </div>
                         <div class="step">
                             <div class="step-icon">
